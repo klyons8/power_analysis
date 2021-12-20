@@ -1,5 +1,5 @@
 #Apriori Power Analysis that can be modified for different mixed model designs
-#By Kathleen Lyons (email: kathleen.lyons90@gmail.com)
+#By Kathleen Lyons 
 #Date: Feb 3, 2021
 
 #'Helpful documents
