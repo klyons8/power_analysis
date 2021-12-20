@@ -29,7 +29,7 @@ library(Superpower)
 ### Two Sample T-Test - if you are most interested in the difference between the two groups (collapsed across time, or only last time point)
 
 #Variables you can change
-pow = .80 #Your power is set to .8; This means 80% of the time, you will detect your effect if it is real
+pow = .80 #Your power is set to .8; 
 NumComp = 3 #Number of comparisons you are planning to do - since you have three measures that you will be comparing separately, I corrected alpha for three tests
 alpha = .05/NumComp #This is the standard alpha level Bonferroni adjusted for three statistical tests
 cohensD = .65 #This is your predicted effect size (cohensD) based on previous literature, small = .2, medium = .5, large = .8)
